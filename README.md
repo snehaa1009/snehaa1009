@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sneha
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently pursuing B.Tech
+- 💞️ I’m looking to collaborate on various projects related to data Science
+- 📫 You can reach me at snehaakumar.official@gmail.com
